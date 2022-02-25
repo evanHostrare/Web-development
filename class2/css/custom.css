@@ -1,0 +1,19 @@
+body{
+	color: orange;
+	font-size:9px;
+}
+.p1{
+	font-size:41px;
+	color: violet;
+}
+#p2{
+	font-size:14px;
+	color: gray;
+}
+.prev-btn{
+	background-color:green;
+	color: white;
+}
+.next-btn{
+	float:right;
+}
