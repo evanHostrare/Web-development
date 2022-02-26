@@ -1,0 +1,8 @@
+.btn-success {
+    color: #fff;
+    background-color: #53e173;
+    border-color: #47d768;
+}
+.btn-group-lg > .btn, .btn-lg {
+    font-size: 1.90rem;
+}
