@@ -1,0 +1,41 @@
+.btn-success {
+    color: #fff;
+    background-color: #53e173;
+    border-color: #47d768;
+}
+.btn-group-lg > .btn, .btn-lg {
+    font-size: 1.90rem;
+}
+.table-success-1, .table-success-1>td, .table-success-1>th {
+    background-color: #2ae956;
+}
+.logo{
+	width:20%;
+	float:left;
+	background-color:green;
+	color:white;
+}
+.search{
+	width:40%;
+	float:left;
+	background-color:blue;
+	color:white;
+}
+.account{
+	width:40%;
+	float:left;
+	background-color:gray;
+	color:white;
+}
+.leftnav{
+	width:20%;
+	float:left;
+	background-color:blue;
+	color:white;
+}
+.content{
+	width:80%;
+	float:left;
+	background-color:red;
+	color:white;
+}
