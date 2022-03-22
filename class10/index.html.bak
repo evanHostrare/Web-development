@@ -1,0 +1,214 @@
+<html>
+<head>  
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Template Raw HTML</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/fontawesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="css/custom.css" rel="stylesheet">
+  <link href="css/responsive.css" rel="stylesheet">
+  <script src="js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="navfixed">
+	<div class="main">
+		<header>
+			<div class="logo">
+				SB UI Kit Pro
+			</div>
+			<div class="nav">
+				<ul>
+					<a href="index.html" ><li class="navitem">Home</li></a>
+					<a href="#"><li class="navitem">Landing<i class="fa fa-angle-right"></i></li></a>
+					<a href="#"><li class="navitem">Pages <i class="fa fa-angle-right"></i></li></a>
+					<a href="#"><li class="navitem">Documentation <i class="fa fa-angle-right"></i></li></a>			
+					<a href="#"><li class="buynow">Buy Now <i class="fa fa-arrow-right"></i></li></a>
+				</ul>
+			</div>
+		</header>	
+	</div>
+</div>
+<section class="sec1">
+	<div class="footmain">
+		<div class="sec1-left">
+			<h1>Build your next project faster with SB UI Kit Pro</h1>
+			<p>Welcome to SB UI Kit Pro, a toolkit for building beautiful web interfaces, created by the development team at Start Bootstrap</p>
+			<a class="viewdemo">View Demo <i class="fa fa-arrow-right"></i></a>
+			<a class="documentation">Documentation</a>
+		</div>
+		<div class="sec1-right">
+			<img src="img/programming.svg" class="banner-img">
+		</div>
+	</div>
+</section>
+<section class="sec2">
+	<img src="img/footertop.png" class="footerpic">
+	<div class="footmain">
+		<h2>Landing Pages</h2>
+		<p>When you purchase this UI Kit, you get access to a robust suite of powerful landing page demos to help you get started.</p>
+		<div class="card">
+		<h6>Demo 1 - Multipurpose</h6>
+		<img src="img/card/1.png" class="card-img">
+		</div>
+		<div class="card">
+		<h6>Demo 1 - Multipurpose</h6>
+		<img src="img/card/1.png" class="card-img">
+		</div>
+		<div class="card">
+		<h6>Demo 1 - Multipurpose</h6>
+		<img src="img/card/1.png" class="card-img">
+		</div>
+		<div class="card">
+		<h6>Demo 1 - Multipurpose</h6>
+		<img src="img/card/1.png" class="card-img">
+		</div>
+		<div class="card">
+		<h6>Demo 1 - Multipurpose</h6>
+		<img src="img/card/1.png" class="card-img">
+		</div>
+		<div class="card">
+		<h6>Demo 1 - Multipurpose</h6>
+		<img src="img/card/1.png" class="card-img">
+		</div>
+		<div class="card">
+		<h6>Demo 1 - Multipurpose</h6>
+		<img src="img/card/1.png" class="card-img">
+		</div>
+		<div class="card">
+		<h6>Demo 1 - Multipurpose</h6>
+		<img src="img/card/1.png" class="card-img">
+		</div>
+		<div class="card">
+		<h6>Demo 1 - Multipurpose</h6>
+		<img src="img/card/1.png" class="card-img">
+		</div>
+		<div class="card">
+		<h6>Demo 1 - Multipurpose</h6>
+		<img src="img/card/1.png" class="card-img">
+		</div>
+		<div class="card">
+		<h6>Demo 1 - Multipurpose</h6>
+		<img src="img/card/1.png" class="card-img">
+		</div>
+		<div class="card">
+		<h6>Demo 1 - Multipurpose</h6>
+		<img src="img/card/1.png" class="card-img">
+		</div>		
+	</div>
+	<img src="img/bottomshape.png" class="footerpic">
+</section>
+	<section class="sec3">
+		<div class="footmain">
+			<h2>Inner Pages</h2>
+			<p>A group of pre-build inner page demos are available to get your started when building out the rest of your project!</p>
+			<div class="list-content">
+			<h4>Company Pages</h4>
+			<ul>
+				<a href="#"><li class="start-radius">Basic Page <i class="fa fa-arrow-right"></i></li></a>			
+				<li>About Page <i class="fa fa-arrow-right"></i></li>	
+				<li >Pricing Page <i class="fa fa-arrow-right"></i></li>
+				<li>Contact Page <i class="fa fa-arrow-right"></i></li>
+				<li class="end-radius">Terms Page <i class="fa fa-arrow-right"></i></li>				
+			</ul>
+
+			</div>
+			<div class="list-content">
+			<h4>Support Pages</h4>
+			<ul>
+				<li class="start-radius">Basic Page <i class="fa fa-arrow-right"></i></li>			
+				<li>About Page <i class="fa fa-arrow-right"></i></li>	
+				<li >Pricing Page <i class="fa fa-arrow-right"></i></li>
+				<li class="end-radius">Terms Page <i class="fa fa-arrow-right"></i></li>				
+			</ul>
+			</div>
+			<div class="list-content">
+			<h4>Portfolio Pages</h4>
+			<ul>
+				<li class="start-radius">Basic Page <i class="fa fa-arrow-right"></i></li>			
+				<li>About Page <i class="fa fa-arrow-right"></i></li>	
+				<li >Pricing Page <i class="fa fa-arrow-right"></i></li>
+				<li>Contact Page <i class="fa fa-arrow-right"></i></li>
+				<li class="end-radius">Terms Page <i class="fa fa-arrow-right"></i></li>				
+			</ul>
+			</div>
+			<div class="list-content">
+			<h4>Portfolio Pages</h4>
+			<ul>
+				<li class="start-radius">Basic Page <i class="fa fa-arrow-right"></i></li>			
+				<li>About Page <i class="fa fa-arrow-right"></i></li>	
+				<li >Pricing Page <i class="fa fa-arrow-right"></i></li>
+				<li>Contact Page <i class="fa fa-arrow-right"></i></li>
+				<li class="end-radius">Terms Page <i class="fa fa-arrow-right"></i></li>				
+			</ul>
+			</div>
+			<div class="list-content">
+			<h4>Portfolio Pages</h4>
+			<ul>
+				<li class="start-radius">Basic Page <i class="fa fa-arrow-right"></i></li>			
+				<li>About Page <i class="fa fa-arrow-right"></i></li>	
+				<li >Pricing Page <i class="fa fa-arrow-right"></i></li>
+				<li>Contact Page <i class="fa fa-arrow-right"></i></li>
+				<li class="end-radius">Terms Page <i class="fa fa-arrow-right"></i></li>				
+			</ul>
+			</div>
+		</div>
+	</section>
+	<section class="sec4"></section>	
+<footer>
+<img src="img/footertop.png" class="footerpic">
+	<div class="footmain">
+		<div class="foot1">
+			<h4>SB UI Kit Pro</h4>
+			<h6>Build better websites</h6>
+			<i class="fa fa-instagram"></i>
+			<i class="fa fa-facebook"></i>
+			<i class="fa fa-github"></i>
+			<i class="fa fa-twitter"></i>
+		</div>
+		<div class="foot2">
+		<h5>Product</h5>
+			<ul>
+				<li>Landing</li>
+				<li>Pages</li>
+				<li>Sections</li>
+				<li>Documentation</li>
+				<li>Changelog</li>
+			</ul>
+		</div>
+		<div class="foot3">
+		<h5>Product</h5>
+			<ul>
+				<li>Landing</li>
+				<li>Pages</li>
+				<li>Sections</li>
+				<li>Documentation</li>
+				<li>Changelog</li>
+			</ul>
+		</div>
+		<div class="foot4">
+		<h5>Product</h5>
+			<ul>
+				<li>Landing</li>
+				<li>Pages</li>
+				<li>Sections</li>
+				<li>Documentation</li>
+				<li>Changelog</li>
+			</ul>
+		</div>
+		<div class="foot5">
+		<h5>Product</h5>
+			<ul>
+				<li>Landing</li>
+				<li>Pages</li>
+				<li>Sections</li>
+				<li>Documentation</li>
+				<li>Changelog</li>
+			</ul>
+		</div>
+		<section class="copyright">
+			
+		</section>
+		</div>
+		
+	</footer>
+</body>
+</html>
