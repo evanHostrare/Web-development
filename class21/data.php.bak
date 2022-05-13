@@ -1,0 +1,9 @@
+<?php 
+$fname='';
+$lname='';
+$thirdnumber='';
+$fname=$_GET['firstnumber'];
+$lname=$_GET['lastnumber'];
+$thirdnumber=$_GET['thirdnumber'];
+echo $fname*$lname+$thirdnumber;
+?>
