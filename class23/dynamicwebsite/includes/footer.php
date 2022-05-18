@@ -1,7 +1,6 @@
 <div class="col-md-4">                    
                     <a href="index.php">Home</a>
                     <?php
-                    session_start();
                     if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"]==0){
                     ?>
                     <a href="login.php">Login</a>
